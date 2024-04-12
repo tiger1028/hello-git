@@ -11,4 +11,7 @@ export const INITIAL_INFO: UserInfoType[] = [
   {
     userId: 2, name: "Sanai", email: "sanai@gmail.com"
   },
+  {
+    userId: 3, name: "Sanai", email: "sanai@gmail.com"
+  },
 ]
